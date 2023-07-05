@@ -1,4 +1,2 @@
-print(12 / 55)
-divmod(120, 55)
-divmod(100, 55)
-divmod(450, 55)
+result = 12 / 55
+print(result)

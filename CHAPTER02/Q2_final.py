@@ -1,10 +1,8 @@
-# rint([chr(ord("a") + i) for i in range(26)])
-# rint()
 import random
 
 while True:
-    random_letter = chr(random.randint(97, 122))  # ランダムなアルファベットを生成する
-    print(random_letter)
+    random_list = chr(random.randint(97, 122))
+    print(random_list)
 
-    if random_letter == "h":
+    if random_list == "h":
         break

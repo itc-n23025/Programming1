@@ -1,3 +1,3 @@
 members = ["Yamada", "Tanaka", "Satou", "Suzuki"]
-
-print()
+name = members.pop(3)
+print(name)

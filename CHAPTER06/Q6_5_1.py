@@ -11,4 +11,3 @@ with open("my_math.py", "w") as f:
     return x ** y\n"""
     )
 my_math.my_pow(2, 5)
-print(import my_math)
